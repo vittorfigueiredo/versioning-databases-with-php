@@ -1,6 +1,6 @@
 ### Versioning databases with PHP using Phinx
 
-Link to tutorial video frm the channerl Code Easy: https://www.youtube.com/watch?v=hrjtp1f9xzc
+Link to Code Easy channerl video tutorial: https://www.youtube.com/watch?v=hrjtp1f9xzc
 
 #### Run the command below to install dependencies:
 
